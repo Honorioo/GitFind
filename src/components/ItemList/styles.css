@@ -1,0 +1,17 @@
+.item-list{
+    margin: 24px 0;
+    max-height: 500px; /* Defina a altura desejada */
+    overflow-y: auto; /* Adiciona rolagem vertical */
+}
+
+.item-list strong {
+    color: rgba(83, 155, 245, 1);
+    font-size: 24px;
+    margin: 24px 0;
+}
+
+.item-list p {
+    color: rgba(153, 153, 153, 1);
+    font-size: 24px;
+    margin: 24px 0;
+}

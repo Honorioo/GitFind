@@ -1,0 +1,15 @@
+header{
+    height: 52px;
+    width: 100%;
+
+    background-color: rgba(45, 51, 59, 1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: rgba(255, 255, 255, 1);
+    font-size: 24px;
+}
